@@ -21,8 +21,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define ENABLE_MOON            // Uses 182 bytes
 #define ENABLE_WAVE            // Uses 844 bytes
 #define ENABLE_SHOOTING_STARS  // Uses 872 bytes
-#define ENABLE_ISLAND
-#define ENABLE_STARS  // Uses 606 bytes
+#define ENABLE_ISLAND 
+#define ENABLE_STARS   // Uses 606 bytes
 
 /**
  * Global Settings
